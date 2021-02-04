@@ -1,6 +1,6 @@
-### Hey there 👋
 
-<h1 align="center"> I'm Shyamal Prajapati 👋</h1>
+
+<h1 align="center"> Hey there, I'm Shyamal Prajapati 👋</h1>
 
 <h2><strong>Intern at Moman.ai</strong></h2>
 <h2><strong>Microsoft Learn Student Ambassador | Beta</strong></h2>
