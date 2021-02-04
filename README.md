@@ -7,7 +7,7 @@
 <h2>Sophomore at A.D. Patel Institute of Techonology.</h2>
 
 <h2>Would love to discuss on <strong>C,C++,Java, HTML, CSS, Reactjs</strong></h2>
-<h3>Reach me :  <a href="www.sgprajapati.com/" target="_blank">SG Prajapati | </a> <a href="https://www.linkedin.com/in/sgprajapati/" target="_blank"> LinkedIn | </a> <a href="https://www.instagram.com/shyamal.24/" target="_blank">Instagram</a></h3>
+<h3>Reach me :  <a href="https://www.sgprajapati.com/" target="_blank">SG Prajapati | </a> <a href="https://www.linkedin.com/in/sgprajapati/" target="_blank"> LinkedIn | </a> <a href="https://www.instagram.com/shyamal.24/" target="_blank">Instagram</a></h3>
 
 <p align="center">
   
