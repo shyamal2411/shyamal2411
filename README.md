@@ -1,18 +1,15 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**shyamal2411/shyamal2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> I'm Shyamal Prajapati 👋</h1>
 
-Here are some ideas to get you started:
+<h2><strong>Intern at Moman.ai</strong></h2>
+<h2><strong>Microsoft Learn Student Ambassador | Beta</strong></h2>
+<h2>Sophomore at A.D. Patel Institute of Techonology.</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Would love to discuss on <strong>C,C++,Java, HTML, CSS, Reactjs</strong></h2>
+<h3>Reach me :  <a href="www.sgprajapati.com/" target="_blank">SG Prajapati</a> <a href="https://www.linkedin.com/in/sgprajapati/" target="_blank">LinkedIn</a> <a href="https://www.instagram.com/shyamal.24/" target="_blank">Instagram</a></h3>
 
-<h1 align="center"> Hey There, I'm Shyamal Prajapati</h1>
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamal2411&show_icons=true" alt "Shyamal Prajapati">
+</p>
