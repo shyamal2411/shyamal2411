@@ -11,5 +11,5 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamal2411&show_icons=true" alt "Shyamal Prajapati">
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamal2411&show_icons=true" alt ="Shyamal Prajapati">
 </p>
