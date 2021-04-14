@@ -10,7 +10,7 @@
 <h3>Reach me :  <a target="_blank"href="https://www.sgprajapati.com/" >SG Prajapati | </a> <a target="_blank" href="https://www.linkedin.com/in/sgprajapati/"> LinkedIn | </a> <a target="_blank" href="https://www.instagram.com/shyamal.24/">Instagram</a></h3>
 
 <p align="center">
-  
+ 
   <img src="https://github-readme-stats.vercel.app/api?username=shyamal2411&show_icons=true" alt ="Shyamal Prajapati">
+
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamal2411&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
