@@ -9,8 +9,7 @@
 <h2>Would love to discuss on <strong>C,C++,Java, HTML, CSS, Reactjs</strong></h2>
 <h3>Reach me :  <a target="_blank"href="https://www.sgprajapati.com/" >SG Prajapati | </a> <a target="_blank" href="https://www.linkedin.com/in/sgprajapati/"> LinkedIn | </a> <a target="_blank" href="https://www.instagram.com/shyamal.24/">Instagram</a></h3>
 
-<p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamal2411&show_icons=true" alt ="Shyamal Prajapati">
 
-</p>
+<br>
+
+![Shyamal Prajapati's stats](https://github-readme-stats.vercel.app/api?username=shyamal2411&theme=blueberry&show_icons=true)
