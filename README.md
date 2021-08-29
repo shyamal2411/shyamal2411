@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Hey there, I'm Shyamal Prajapati 👋</h1>
-
+<img src = "https://komarev.com/ghpvc/?username=shyamal2411&color=orange">
 <h2><strong>Intern at Moman.ai</strong></h2>
 <h2><strong>Microsoft Learn Student Ambassador | Beta</strong></h2>
 <h2>Sophomore at A.D. Patel Institute of Techonology.</h2>
