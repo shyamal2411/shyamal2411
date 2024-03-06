@@ -36,7 +36,5 @@
 <br/>
 
 ## Some Stats:
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-   <img src = "https://komarev.com/ghpvc/?username=shyamal2411&color=orange">
-</a>
+
 <a href="https://github.com/shyamal2411?tab=followers"><img src="https://img.shields.io/github/followers/shyamal2411?label=Followers&style=social" alt="GitHub Badge"></a>
