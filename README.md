@@ -2,14 +2,15 @@
 
 <h1 align="center"> Hey there, I'm Shyamal Prajapati 👋</h1>
 <!-- <img src = "https://komarev.com/ghpvc/?username=shyamal2411&color=orange"> -->
-<h2><strong>Graduate student at Dalhousie University</strong></h2>
+<h2><strong>SDE - Amazon</strong></h2>
+<h2><strong>Grad - Dalhousie University</strong></h2>
 <h2><strong>Microsoft Learn Student Ambassador | Gold</strong></h2>
 <h2>Would love to discuss on <strong>C,C++,Java, HTML, CSS, Reactjs</strong></h2>
   <br/>
 
 <p align="center">
     <a href="https://github.com/shyamal2411/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shyamal's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamal2411&"                    alt="shyamal2411&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shyamal's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamal2411&"  alt="shyamal2411&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
   </p>
   
