@@ -5,7 +5,7 @@
 <h2><strong>SDE - Amazon</strong></h2>
 <h2><strong>Grad - Dalhousie University</strong></h2>
 <h2><strong>Microsoft Learn Student Ambassador | Gold</strong></h2>
-<h2>Would love to discuss on <strong>C,C++,Java, HTML, CSS, Reactjs</strong></h2>
+<h2>Would love to discuss MCPs, AI Agents, System Design and Scalable, Reliable Architectures</h2>
   <br/>
 
 <p align="center">
